@@ -11,3 +11,5 @@
 9. [Discrete Random Variable 1](notebooks/9.discrete_random_variable.ipynb)
 10. [Discrete Random Variable 2](notebooks/10.discrete_random_variable_2.ipynb)
 11. [Continuous Random Variable 1](notebooks/11.continuous_random_variable.ipynb)
+12. [Continuous Random Variable 2](notebooks/12.continuous_random_variable_2.ipynb)
+13. [Covariance and Correlation](notebooks/13.covariance_correlation.ipynb)
