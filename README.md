@@ -1,5 +1,9 @@
 # Probability and Random Variables
 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdaniel-satria%2Fprobability-and-random-variables%2Frefs%2Fheads%2Fmain%2Fpackage.json&query=%24.python&style=flat&label=python)
+
+## Index
+
 1. [Set and Counting](notebooks/1.set_and_counting.ipynb)
 2. [Combinatorics](notebooks/2.combinatorics.ipynb)
 3. [Probabilistic Model & Axioms](notebooks/3.probabilistic_model_and_axioms.ipynb)
