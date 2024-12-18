@@ -19,4 +19,4 @@
 13. [Covariance and Correlation](notebooks/13.covariance_correlation.ipynb)
 14. [Conditional Expectation & Variance](notebooks/14.conditional_expectation_variance.ipynb)
 15. [Statistical Test 1](notebooks/15.statistical_test.ipynb)
-16. [Statistical Test 2]()
+16. [Statistical Test 2](notebooks/16.statistical_test_2.ipynb)
